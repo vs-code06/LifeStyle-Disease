@@ -2043,7 +2043,7 @@ export default function HealthSystemsAnalysis() {
               </button>
               <button
                 onClick={() => {
-                  setActiveTab("BOT");
+                  setActiveTab("bot");
                   setMobileMenuOpen(false);
                 }}
                 className={`block w-full text-left px-4 py-3 rounded-md text-sm font-medium ${
